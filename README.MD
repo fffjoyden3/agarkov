@@ -3,7 +3,7 @@
 
 <p align="centert"><img src="https://cdnn1.inosmi.ru/img/24985/10/249851004_0:196:2030:1211_1920x0_80_0_0_78318b59d4ce0cde91f76a1b092765e7.jpg" scr= width="400"></p>
 -----
-<p><a href="https://img.likeness.ru/55/54/55545/1572382752.jpg">Zdarova bratva</p>
+<p><a href="https://img.likeness.ru/55/54/55545/1572382752.jpg"></p>
 
 -----
 * группа 21ис6к
